@@ -109,11 +109,3 @@ let test5 = (function(){
     return "sample5";
 })()
 console.log(test5)
-
-
-
-
-
-
-
-
